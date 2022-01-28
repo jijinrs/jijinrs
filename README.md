@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" width="480" height="480"/>
 </div>
 
-- :telescope: I’m working as a ML Data Associate and contributing to machine learning and data science a.
+- :telescope: I’m working as a ML Data Associate and contributing to machine learning and data science.
 
 - :seedling: Exploring Technical Content Writing.
 
