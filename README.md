@@ -3,7 +3,7 @@
 <h3 align="center"> Data Science Enthusiast, Currently Machine Learning Data Associate @ Amazon Development Centre </h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" width="380" height="380"/>
+  <img src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" width="180" height="180"/>
 </div>
 
 - :telescope: I’m working as a ML Data Associate and contributing to machine learning and data science.
